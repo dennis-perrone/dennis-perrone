@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
+
+Thanks for stopping by! I'm currently working on my B.S. in Cyber Security and plan on having that completed in Fall 2021. Other than that, I'm interested in everything IT and more specifically, cyber security. I currently work as a Systems Engineer with a background in Information Assurance and Compliance. I'm always hungry to learn more and plan to continue down that path!
+
+Right now, my current goal is to develop skills in both DevOps and Project Management as I have a huge interest in both fields. Any advice or words of encorgement are always welcomed!
+
+If you'd like, please feel free to add me on [LinkedIn](www.linkedin.com/in/dennis-perrone)
 
 <!--
 **dennis-perrone/dennis-perrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

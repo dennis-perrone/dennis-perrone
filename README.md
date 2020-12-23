@@ -5,6 +5,7 @@ Thanks for stopping by! I'm currently working on my B.S. in Cyber Security and p
 Right now, my current goals are to develop skills in both DevOps and Project Management as I have a huge interest in both fields. Any advice or words of encorgement are always welcomed!
 
 If you'd like, please feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
+I've also started to try my hand at blogging. Check it out [here](https://dennis-perrone.github.io)!
 
 <!--
 **dennis-perrone/dennis-perrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

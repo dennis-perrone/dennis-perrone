@@ -6,7 +6,7 @@ Right now, my current goals are to develop skills in both Dev(Sec)Ops and Projec
 
 If you'd like, please feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
 
-I've also started to try my hand at blogging. Check it out [here](https://dennis-perrone.github.io)!
+I've also started to try my hand at blogging. Check it out [here](https://www.dennisperrone.com)!
 
 <!--
 **dennis-perrone/dennis-perrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

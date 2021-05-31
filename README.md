@@ -1,8 +1,9 @@
 ### Welcome to my GitHub! 👋
 
-Thanks for stopping by! I'm currently working on my B.S. in Cyber Security and plan on having that completed in Fall 2021. Other than that, I'm interested in everything IT and more specifically, cyber security. I currently work as a Systems Engineer with a background in Information Assurance and Compliance. I'm always hungry to learn more and plan to continue down that path!
+Hey all, thanks for stopping by! My name is Dennis and I'm currently working on my B.S. in Cyber Security with the intention of having that completed in Fall 2021. Other than that, I'm interested in everything IT and more specifically, cyber security. I have a background in both systems engineering, automation, and cyber compliance, information assurance and cyber security. Currently, I’m working as a Technical Project Manager and am working to develop myself more in that space and embrace the new challenge.
 
-Right now, my current goals are to develop skills in both Dev(Sec)Ops and Project Management as I have a huge interest in both fields. Any advice or words of encorgement are always welcomed!
+Right now, my current goals are to develop skills in both Dev(Sec)Ops, and Project Management (both traditional and Agile) as I have a huge interest in both fields. Any advice or words of encouragement are always welcomed!
+
 
 If you'd like, please feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
 

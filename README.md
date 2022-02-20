@@ -1,8 +1,8 @@
 ### Welcome to my GitHub! 👋
 
-Hey all, thanks for stopping by! My name is Dennis and I just finished up my B.S. in Cybersecurity. Other than that, I'm interested in everything IT and more specifically, cybersecurity. I have a background in systems engineering, automation, cyber compliance, and cybersecurity. Currently, I’m working as a Vulnerability Manager, and I am working to develop myself more in that space and embrace the new challenge.
+Hey all, thanks for stopping by! My name is Dennis and I just finished up my B.S. in Cybersecurity. I'm interested in everything IT and more specifically, product management and cybersecurity. I have a background in systems engineering, automation, cyber compliance, and administration. Currently, I’m working as a Vulnerability Manager where I'm working to develop myself more in that space and embrace the new challenge.
 
-Right now, my current goals are to develop skills in both Dev(Sec)Ops, Product Management, and become more well-rounded with Project Management methodologies. Any advice or words of encouragement are always welcomed!
+Right now, my current goals are to develop skills in both Dev(Sec)Ops, product management, and increase my cloud knowledge. Any advice or words of encouragement are always welcomed!
 
 
 If you'd like, please feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)

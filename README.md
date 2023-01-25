@@ -1,11 +1,10 @@
 ### Welcome to my GitHub! 👋
 
-Hey all, thanks for stopping by! My name is Dennis. I'm interested in everything IT and more specifically, automation and cybersecurity.
+Hey all, thanks for stopping by! My name is Dennis. I'm interested in everything IT and more specifically, automation and Dev(Sec)Ops.
 
-Right now, my current goals are to develop and grow my skills in Dev(Sec)Ops, system engineering, and overall cloud knowledge. Any advice or words of encouragement are always welcomed!
+I really enjoy messing around and learning more. I'm always leaning in to learn more and expand my knowledge.
 
-
-If you'd like, please feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
+Feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
 
 <!--
 **dennis-perrone/dennis-perrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

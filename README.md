@@ -1,9 +1,21 @@
-### Welcome to my GitHub! 👋
+# Hi, I'm Dennis 👋
 
-Hey all, thanks for stopping by! My name is Dennis. I'm interested in everything IT and more specifically, automation and Dev(Sec)Ops.
+Thanks for stopping by! My name is Dennis. I'm interested in everything IT and more specifically automation and Dev(Sec)Ops. 
 
-I really enjoy messing around and learning more. I'm always leaning in to learn more and expand my knowledge.
+I really enjoy tinkering and learning. I have a small home lab set up and try to automate everything that I do.
 
+## 💬 My Articles
+
+- [Using automated workflows to reach zero trust goals faster](https://www.tines.com/blog/automated-workflows-zero-trust-goals)
+- [How federal agencies can build their zero trust security tech stack](https://www.tines.com/blog/federal-agencies-zero-trust-security-tech-stack)
+
+## 🌱 Things I'm looking into
+
+- How to effectively deploy, monitor, and optimize a zero trust enterprise.
+- How to automate things that haven't traditionally been automated.
+- Becoming more efficient and utilizing API's.
+
+## 📫 How to reach me
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/dennis-perrone)
 
 <!--
